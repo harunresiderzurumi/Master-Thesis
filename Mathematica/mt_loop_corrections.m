@@ -1,7 +1,7 @@
 (* ::Package:: *)
 
 (* ::Input:: *)
-(*(*This file contains a list of loop corrections to mt, which are mentioned in the Master's thesis of Harun Acaroglu with the title "Complete Calculation of the Dominant Three-Loop Contributions to the Yukawa Mass in the Standard Model". It can be understand as the extention of appendix B.*)*)
+(*(*This file contains a list of loop corrections to mt, which are mentioned in the Master's thesis of Harun Acaroglu with the title "Complete Calculation of the Dominant Three-Loop Contributions to the Yukawa Mass in the Standard Model". It can be understand as the extension of appendix B.*)*)
 (**)
 (*(*In general, all the loop corrections are given for s=t. If the expression for arbitrary s is known, it will be listed seperately.*)*)
 (**)
