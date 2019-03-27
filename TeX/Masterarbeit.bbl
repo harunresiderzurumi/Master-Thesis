@@ -1,0 +1,318 @@
+\begin{thebibliography}{10}
+
+\bibitem{github}
+\url{https://github.com/harunresiderzurumi/Master-Thesis/blob/master/Mathematica/mt_loop_corrections.m}.
+
+\bibitem{higgsmeasurement2}
+Georges Aad et~al.
+\newblock {Combined Measurement of the Higgs Boson Mass in $pp$ Collisions at
+  $\sqrt{s}=7$ and 8 TeV with the ATLAS and CMS Experiments}.
+\newblock {\em Phys. Rev. Lett.}, 114:191803, 2015.
+
+\bibitem{softsusy}
+B.~C. Allanach.
+\newblock {SOFTSUSY: a program for calculating supersymmetric spectra}.
+\newblock {\em Comput. Phys. Commun.}, 143:305--331, 2002.
+
+\bibitem{slha2}
+B.~C. Allanach et~al.
+\newblock {SUSY Les Houches Accord 2}.
+\newblock {\em Comput. Phys. Commun.}, 180:8--25, 2009.
+
+\bibitem{allanachvoigt}
+B.~C. Allanach and A.~Voigt.
+\newblock {Uncertainties in the Lightest $CP$ Even Higgs Boson Mass Prediction
+  in the Minimal Supersymmetric Standard Model: Fixed Order Versus Effective
+  Field Theory Prediction}.
+\newblock {\em Eur. Phys. J.}, C78(7):573, 2018.
+
+\bibitem{FS2}
+Peter Athron, Markus Bach, Dylan Harries, Thomas Kwasnitza, Jae-hyeon Park,
+  Dominik Stöckinger, Alexander Voigt, and Jobst Ziebell.
+\newblock {FlexibleSUSY 2.0: Extensions to investigate the phenomenology of
+  SUSY and non-SUSY models}.
+\newblock {\em Comput. Phys. Commun.}, 230:145--217, 2018.
+
+\bibitem{FS}
+Peter Athron, Jae-hyeon Park, Dominik Stöckinger, and Alexander Voigt.
+\newblock {FlexibleSUSY—A spectrum generator generator for supersymmetric
+  models}.
+\newblock {\em Comput. Phys. Commun.}, 190:139--172, 2015.
+
+\bibitem{sphenoconv}
+Peter Athron, Jae-hyeon Park, Tom Steudtner, Dominik Stöckinger, and Alexander
+  Voigt.
+\newblock {Precise Higgs mass calculations in (non-)minimal supersymmetry at
+  both high and low scales}.
+\newblock {\em JHEP}, 01:079, 2017.
+
+\bibitem{uncertainty}
+Emanuele Bagnaschi, Gian~F. Giudice, Pietro Slavich, and Alessandro Strumia.
+\newblock {Higgs Mass and Unnatural Supersymmetry}.
+\newblock {\em JHEP}, 09:092, 2014.
+
+\bibitem{lambda2}
+Emanuele Bagnaschi, Javier Pardo~Vega, and Pietro Slavich.
+\newblock {Improved determination of the Higgs mass in the MSSM with heavy
+  superpartners}.
+\newblock {\em Eur. Phys. J.}, C77(5):334, 2017.
+
+\bibitem{beta9}
+P.~A. Baikov, K.~G. Chetyrkin, and J.~H. Kühn.
+\newblock {Five-Loop Running of the QCD coupling constant}.
+\newblock {\em Phys. Rev. Lett.}, 118(8):082002, 2017.
+
+\bibitem{beta7}
+A.~V. Bednyakov and A.~F. Pikelner.
+\newblock {Four-loop strong coupling beta-function in the Standard Model}.
+\newblock {\em Phys. Lett.}, B762:151--156, 2016.
+
+\bibitem{beta2}
+A.~V. Bednyakov, A.~F. Pikelner, and V.~N. Velizhanin.
+\newblock {Anomalous dimensions of gauge fields and gauge coupling
+  beta-functions in the Standard Model at three loops}.
+\newblock {\em JHEP}, 01:017, 2013.
+
+\bibitem{beta5}
+A.~V. Bednyakov, A.~F. Pikelner, and V.~N. Velizhanin.
+\newblock {Higgs self-coupling beta-function in the Standard Model at three
+  loops}.
+\newblock {\em Nucl. Phys.}, B875:552--565, 2013.
+
+\bibitem{beta3}
+A.~V. Bednyakov, A.~F. Pikelner, and V.~N. Velizhanin.
+\newblock {Yukawa coupling beta-functions in the Standard Model at three
+  loops}.
+\newblock {\em Phys. Lett.}, B722:336--340, 2013.
+
+\bibitem{hierarchy}
+Gautam Bhattacharyya.
+\newblock {The Hierarchy Problem and Physics Beyond the Standard Model}.
+\newblock {\em Springer Proc. Phys.}, 203:17--20, 2018.
+
+\bibitem{higgsmeasurement1}
+Serguei Chatrchyan et~al.
+\newblock {Observation of a new boson at a mass of 125 GeV with the CMS
+  experiment at the LHC}.
+\newblock {\em Phys. Lett.}, B716:30--61, 2012.
+
+\bibitem{Chetyrkin:1999qi}
+K.~G. Chetyrkin and M.~Steinhauser.
+\newblock {The Relation between the MS-bar and the on-shell quark mass at order
+  alpha(s)**3}.
+\newblock {\em Nucl. Phys.}, B573:617--651, 2000.
+
+\bibitem{beta4}
+K.~G. Chetyrkin and M.~F. Zoller.
+\newblock {Three-loop $\beta$-functions for top-Yukawa and the Higgs
+  self-interaction in the Standard Model}.
+\newblock {\em JHEP}, 06:033, 2012.
+
+\bibitem{beta8}
+K.~G. Chetyrkin and M.~F. Zoller.
+\newblock {Leading QCD-induced four-loop contributions to the $\beta$-function
+  of the Higgs self-coupling in the SM and vacuum stability}.
+\newblock {\em JHEP}, 06:175, 2016.
+
+\bibitem{lambda3}
+R.~V. Harlander, J.~Klappert, A.~D. Ochoa~Franco, and A.~Voigt.
+\newblock {The light CP-even MSSM Higgs mass resummed to fourth logarithmic
+  order}.
+\newblock {\em Eur. Phys. J.}, C78(10):874, 2018.
+
+\bibitem{hidding}
+Martijn Hidding.
+\newblock {\em Methods for the Renormalization of the Top Quark (Master's
+  Thesis)}.
+\newblock Utrecht University, June 2016.
+\newblock URL:
+  \url{https://web.science.uu.nl/ITF/Teaching/2016/2016Hidding.pdf}. Last
+  visited on 2019/03/03.
+
+\bibitem{tadpole}
+Fred Jegerlehner, Mikhail~{\relax Yu}. Kalmykov, and Bernd~A. Kniehl.
+\newblock {On the difference between the pole and the $\overline {MS}$ masses
+  of the top quark at the electroweak scale}.
+\newblock {\em Phys. Lett.}, B722:123--129, 2013.
+
+\bibitem{knl1}
+T.~Kinoshita.
+\newblock {Mass singularities of Feynman amplitudes}.
+\newblock {\em J. Math. Phys.}, 3:650--677, 1962.
+
+\bibitem{kwasnitza}
+Thomas Kwasnitza.
+\newblock {\em Precise Calculation of the Lightest CP-Even Higgs Boson Mass in
+  the MSSM with FlexibleSUSY (Master's Thesis)}.
+\newblock Technische Universität Dresden, December 2016.
+\newblock URL:
+  \url{https://iktp.tu-dresden.de/IKTP/pub/16/Masterarbeit_Kwasnitza_Thomas.pdf}.
+  Last visited on 2019/03/03.
+
+\bibitem{knl2}
+T.~D. Lee and M.~Nauenberg.
+\newblock {Degenerate Systems and Mass Singularities}.
+\newblock {\em Phys. Rev.}, 133:B1549--B1562, 1964.
+\newblock [,25(1964)].
+
+\bibitem{martinSUSY}
+Stephen~P. Martin.
+\newblock {A Supersymmetry primer}.
+\newblock pages 1--98, 1997.
+\newblock [Adv. Ser. Direct. High Energy Phys.18,1(1998)].
+
+\bibitem{martinloops}
+Stephen~P. Martin.
+\newblock {Evaluation of two loop selfenergy basis integrals using differential
+  equations}.
+\newblock {\em Phys. Rev.}, D68:075002, 2003.
+
+\bibitem{martinHiggs4L}
+Stephen~P. Martin.
+\newblock {Four-Loop Standard Model Effective Potential at Leading Order in
+  QCD}.
+\newblock {\em Phys. Rev.}, D92(5):054029, 2015.
+
+\bibitem{martinmain}
+Stephen~P. Martin.
+\newblock {Top-quark pole mass in the tadpole-free $\overline {MS}$ scheme}.
+\newblock {\em Phys. Rev.}, D93(9):094017, 2016.
+
+\bibitem{tsil}
+Stephen~P. Martin and David~G. Robertson.
+\newblock {TSIL: A Program for the calculation of two-loop self-energy
+  integrals}.
+\newblock {\em Comput. Phys. Commun.}, 174:133--151, 2006.
+
+\bibitem{martinHiggs1L}
+Stephen~P. Martin and David~G. Robertson.
+\newblock {Higgs boson mass in the Standard Model at two-loop order and
+  beyond}.
+\newblock {\em Phys. Rev.}, D90(7):073010, 2014.
+
+\bibitem{Melnikov:2000qh}
+Kirill Melnikov and Timo~van Ritbergen.
+\newblock {The Three loop relation between the MS-bar and the pole quark
+  masses}.
+\newblock {\em Phys. Lett.}, B482:99--108, 2000.
+
+\bibitem{beta1}
+Luminita~N. Mihaila, Jens Salomon, and Matthias Steinhauser.
+\newblock {Gauge Coupling Beta Functions in the Standard Model to Three Loops}.
+\newblock {\em Phys. Rev. Lett.}, 108:151602, 2012.
+
+\bibitem{susyhd}
+Javier Pardo~Vega and Giovanni Villadoro.
+\newblock {SusyHD: Higgs mass Determination in Supersymmetry}.
+\newblock {\em JHEP}, 07:159, 2015.
+
+\bibitem{strongcp}
+R.~D. Peccei.
+\newblock {The Strong CP problem and axions}.
+\newblock {\em Lect. Notes Phys.}, 741:3--17, 2008.
+\newblock [,3(2006)].
+
+\bibitem{peccei}
+R.~D. Peccei and Helen~R. Quinn.
+\newblock {CP Conservation in the Presence of Instantons}.
+\newblock {\em Phys. Rev. Lett.}, 38:1440--1443, 1977.
+\newblock [,328(1977)].
+
+\bibitem{peskin}
+Michael~E. Peskin and Daniel~V. Schroeder.
+\newblock {\em {An Introduction to Quantum Field Theory}}.
+\newblock Addison-Wesley, Reading, USA, 1995.
+
+\bibitem{spheno2}
+W.~Porod and F.~Staub.
+\newblock {SPheno 3.1: Extensions including flavour, CP-phases and models
+  beyond the MSSM}.
+\newblock {\em Comput. Phys. Commun.}, 183:2458--2469, 2012.
+
+\bibitem{spheno1}
+Werner Porod.
+\newblock {SPheno, a program for calculating supersymmetric spectra, SUSY
+  particle decays and SUSY particle production at e+ e- colliders}.
+\newblock {\em Comput. Phys. Commun.}, 153:275--315, 2003.
+
+\bibitem{romaoSM}
+Jorge~Crispim Romao.
+\newblock {\em Advanced Quantum Field Theory (Lecture Notes)}.
+\newblock Tecnico Lisboa, September 2018.
+\newblock URL: \url{http://porthos.ist.utl.pt/ftp/textos/tca.pdf}. Last visited
+  on 2019/03/03.
+
+\bibitem{seesaw}
+J.~Schechter and J.~W.~F. Valle.
+\newblock {Neutrino Masses in SU(2) x U(1) Theories}.
+\newblock {\em Phys. Rev.}, D22:2227, 1980.
+
+\bibitem{schwartz}
+Matthew~D. Schwartz.
+\newblock {\em {Quantum Field Theory and the Standard Model}}.
+\newblock Cambridge University Press, 2014.
+
+\bibitem{ghosts}
+Ken-ichi Shizuya.
+\newblock {Quantization of the Massive Yang-Mills Field in Arbitrary Gauges}.
+\newblock {\em Nucl. Phys.}, B94:260--268, 1975.
+
+\bibitem{slha1}
+Peter~Z. Skands et~al.
+\newblock {SUSY Les Houches accord: Interfacing SUSY spectrum calculators,
+  decay packages, and event generators}.
+\newblock {\em JHEP}, 07:036, 2004.
+
+\bibitem{vrenorm}
+Marcus Sperling, Dominik Stöckinger, and Alexander Voigt.
+\newblock {Renormalization of vacuum expectation values in spontaneously broken
+  gauge theories}.
+\newblock {\em JHEP}, 07:132, 2013.
+
+\bibitem{sarah2}
+Florian Staub.
+\newblock {From Superpotential to Model Files for FeynArts and
+  CalcHep/CompHep}.
+\newblock {\em Comput. Phys. Commun.}, 181:1077--1086, 2010.
+
+\bibitem{sarah3}
+Florian Staub.
+\newblock {Automatic Calculation of supersymmetric Renormalization Group
+  Equations and Self Energies}.
+\newblock {\em Comput. Phys. Commun.}, 182:808--833, 2011.
+
+\bibitem{sarah4}
+Florian Staub.
+\newblock {SARAH 3.2: Dirac Gauginos, UFO output, and more}.
+\newblock {\em Comput. Phys. Commun.}, 184:1792--1809, 2013.
+
+\bibitem{sarah5}
+Florian Staub.
+\newblock {SARAH 4 : A tool for (not only SUSY) model builders}.
+\newblock {\em Comput. Phys. Commun.}, 185:1773--1790, 2014.
+
+\bibitem{sarah1}
+Florian Staub, Werner Porod, and Bjorn Herrmann.
+\newblock {The Electroweak sector of the NMSSM at the one-loop level}.
+\newblock {\em JHEP}, 10:040, 2010.
+
+\bibitem{steinhauser}
+Matthias Steinhauser.
+\newblock {\em {Übungen zu Strahlungskorrekturen in Eichtheorien (lecture)}}.
+\newblock Maria Laach Herbstschule für Hochenergyphysik, 2003.
+\newblock URL:
+  \url{https://unith.desy.de/sites/sites_custom/site_unith/content/e28509/e45341/e78403/infoboxContent78404/laach2003.pdf}.
+  Last visited on 2019/03/13.
+
+\bibitem{tarasov}
+O.~V. Tarasov.
+\newblock {Generalized recurrence relations for two loop propagator integrals
+  with arbitrary masses}.
+\newblock {\em Nucl. Phys.}, B502:455--482, 1997.
+
+\bibitem{Tarrach:1980up}
+R.~Tarrach.
+\newblock {The Pole Mass in Perturbative QCD}.
+\newblock {\em Nucl. Phys.}, B183:384--396, 1981.
+
+\end{thebibliography}
